@@ -1,2 +1,8 @@
 # react-starter
-React boilerplate that use create-react-app
+
+React boilerplate that use:
+
+- Create React App
+- Sass
+- Frontendler
+
