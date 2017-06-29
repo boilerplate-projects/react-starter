@@ -1,7 +1,8 @@
 {
-  "name": "create-react-app-test",
+  "name": "react-starter",
   "version": "0.1.0",
-  "private": true,
+  "repository": "git@github.com:dbeff/react-starter.git",
+  "author": "Daniel Beff",
   "dependencies": {
     "frontendler-sass": "^1.2.0",
     "node-sass-chokidar": "0.0.3",
